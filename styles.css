@@ -98,7 +98,7 @@ nav a:hover {
     font-weight: 600;
     margin-right: 15rem;
     margin-top: 30rem;
-    transition: 0.7s ease;
+    transition: 1s ease;
 }
 .btn.primary {
     background-color: #fbb033; 
@@ -415,4 +415,5 @@ footer{
     transform: translate(0px, 0px) rotate3d(0, 0, 1, -2deg);
   }
 }
+
 
