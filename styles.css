@@ -331,33 +331,6 @@ footer span {
         flex-direction: column;
         gap: 10rem;
     }
-
-    .cards {
-        padding: 30rem 0;
-    }
-
-    .card {
-        width: 80%;
-        margin: 10rem 0;
-        padding: 15rem;
-    }
-
-    .card img {
-        width: 25%;
-    }
-
-    .card h3 {
-        font-size: 20rem;
-    }
-
-    .card p {
-        font-size: 14rem;
-    }
-
-    .card a {
-        font-size: 12rem;
-    }
-
     
     .features-container {
         text-align: center;
@@ -426,3 +399,4 @@ footer span {
     transform: translate(0px, 0px) rotate3d(0, 0, 1, -2deg);
   }
 }
+
