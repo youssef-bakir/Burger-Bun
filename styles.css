@@ -28,6 +28,7 @@ header {
     display: flex;
     align-items: center;
     margin-left: -65rem;
+    cursor:  pointer;
 }
 .logo img {
     height: 22rem;
@@ -102,14 +103,14 @@ nav a:hover {
 .btn.primary {
     background-color: #fbb033; 
     color: black;
-    transition: 0.7s ease;
+    transition: 1s ease;
     padding:15rem 35rem;
 }
 .btn.secondary {
     background-color: transparent;
     border: 2rem solid #fbb033;
     color: #fbb033;
-    transition: 0.7s ease;
+    transition: 1s ease;
 }
 .btn.primary:hover {
     background-color: #c6881f; 
@@ -414,3 +415,4 @@ footer{
     transform: translate(0px, 0px) rotate3d(0, 0, 1, -2deg);
   }
 }
+
